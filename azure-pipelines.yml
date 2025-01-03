@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: Lin
+pool: Lin
 
 steps:
 - task: Maven@4
